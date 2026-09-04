@@ -16,9 +16,9 @@ A desktop-based enterprise management application built with **C# Windows Forms*
 
 | Name | Student ID | Core Modules & Responsibilities | Contribution % |
 | :--- | :--- | :--- | :--- |
-| **Shefa Bintay Kashem** | 24-58681-2 | UI/UX Wireframing, Project Report Documentation, System Validation | 33.3% |
-| **Dibosh Modak Shuvo** | 24-57868-2 | Employee Payroll Module, Bonus Logic Integration, Unit Testing | 33.3% |
-| **Mashrafi Shahariar Smitoa** | 24-58452-2 | Database Architecture, ADO.NET DAL, Customer Catalog, Dynamic Filters & Cart Checkout Engine | 33.4% |
+| *Shefa Bintay Kashem* | 24-58681-2 | UI/UX Wireframing, Project Report Documentation, System Validation | 33.3% |
+| *Dibosh Modak Shuvo* | 24-57868-2 | Employee Dashboard, Bonus Logic Integration, Unit Testing,schema diagram  | 33.3% |
+| *Mashrafi Shahariar Smitoa* | 24-58452-2 | Database Architecture, ADO.NET DAL, Customer Catalog, Dynamic Filters & Cart Checkout Engine | 33.4% |
 
 ---
 
@@ -58,7 +58,6 @@ RestaurantManagementSystem/
 ├── RestaurantManagementSystem.slnx
 │
 └── RestaurantManagementSystem/
-    ├── App.config
     ├── Program.cs
     ├── DataAccess/
     │   └── DbConnection.cs             # Centralized ADO.NET Connection & Query Helper
